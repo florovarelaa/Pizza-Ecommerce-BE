@@ -9,6 +9,12 @@ The menu contains at least 8 pizzas
 
 The pizza order process covers ordering single or several pizzas with definition of the quantity and calculation of a total price in Euros and US$ also adding delivery costs to the bill.
 
+## Demo
+[Here](https://pizza-ecommerce.herokuapp.com/)
+
+## Frontend Repository
+[Here](https://github.com/florovarelaa/Pizza-Ecommerce-FE)
+
 ## Install
 
     npm install
